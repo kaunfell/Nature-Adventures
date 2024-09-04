@@ -1,4 +1,4 @@
-# 🌲⛰️ Nature Adventures ![adventure logo](./resurssit/css/img/adventure.png)
+# 🌲⛰️ Nature Adventures ![adventure logo](./resurssit/css/img/adventure.png = 300x300) ⛰️🌲
 
 
 $$
@@ -16,5 +16,5 @@ $$
 
 
 
-🌲-------------------
+🌲🌲
 - Pictures are from Pixabay and CleanPNG.
