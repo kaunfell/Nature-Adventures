@@ -1,4 +1,4 @@
-# 🌲⛰️ Nature Adventures ![adventure logo](./resurssit/css/img/adventure.png = 300x300) ⛰️🌲
+# 🌲⛰️ Nature Adventures <img src="./resurssit/css/img/adventure.png" width="300" height="300"/> ⛰️🌲
 
 
 $$
