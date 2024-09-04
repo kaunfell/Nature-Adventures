@@ -1,9 +1,11 @@
- <img src="./resurssit/css/img/adventure.png" width="300" height="300"/> 
-# 🌲⛰️ Nature Adventures⛰️🌲
+ <img src="./resurssit/css/img/adventure.png" width="300" height="300"/>  
+
+# 🌲⛰️Nature Adventures 🌲⛰️
 
 
-
-<h3 style="color: green">HTML and CSS demonstration for:</h3>
+$$
+{\color{green}HTML \space and \space CSS \space demonstration \space for \space :}
+$$
 
 * nav and links
 * pictures with text
