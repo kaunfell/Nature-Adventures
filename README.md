@@ -1,7 +1,9 @@
-# 🌲⛰️ Nature Adventures ![adventure logo](https://banner2.cleanpng.com/20200608/swy/transparent-adventure-free-logo-cricut-1713860882288.webp)
+# 🌲⛰️ Nature Adventures ![adventure logo](./resurssit/css/img/adventure.png)
 
 
-$${\color{green}HTML \space and \space CSS \space demonstration \space for \space :}$$
+$$
+{\color{green}HTML \space and \space CSS \space demonstration \space for \space :}
+$$
 
 * nav and links
 * pictures with text
@@ -15,4 +17,4 @@ $${\color{green}HTML \space and \space CSS \space demonstration \space for \spac
 
 
 🌲-------------------
-Pictures are from Pixabay.
+- Pictures are from Pixabay and CleanPNG.
